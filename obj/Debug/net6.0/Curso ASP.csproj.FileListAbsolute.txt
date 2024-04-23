@@ -1,0 +1,68 @@
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\appsettings.Development.json
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\appsettings.json
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\Curso ASP.staticwebassets.runtime.json
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\Curso ASP.exe
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\Curso ASP.deps.json
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\Curso ASP.runtimeconfig.json
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\Curso ASP.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\Curso ASP.pdb
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\Humanizer.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Develop\NET\Curso ASP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Develop\NET\Curso ASP\obj\Debug\net6.0\Curso ASP.csproj.AssemblyReference.cache
+E:\Develop\NET\Curso ASP\obj\Debug\net6.0\Curso ASP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Develop\NET\Curso ASP\obj\Debug\net6.0\Curso ASP.AssemblyInfoInputs.cache
+E:\Develop\NET\Curso ASP\obj\Debug\net6.0\Curso ASP.AssemblyInfo.cs
+E:\Develop\NET\Curso ASP\obj\Debug\net6.0\Curso ASP.csproj.CoreCompileInputs.cache
+E:\Develop\NET\Curso ASP\obj\Debug\net6.0\Curso ASP.MvcApplicationPartsAssemblyInfo.cache
+E:\Develop\NET\Curso ASP\obj\Debug\net6.0\Curso ASP.RazorAssemblyInfo.cache
+E:\Develop\NET\Curso ASP\obj\Debug\net6.0\Curso ASP.RazorAssemblyInfo.cs
+E:\Develop\NET\Curso ASP\obj\Debug\net6.0\staticwebassets.build.json
+E:\Develop\NET\Curso ASP\obj\Debug\net6.0\staticwebassets.development.json
+E:\Develop\NET\Curso ASP\obj\Debug\net6.0\staticwebassets\msbuild.Curso ASP.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Develop\NET\Curso ASP\obj\Debug\net6.0\staticwebassets\msbuild.build.Curso ASP.props
+E:\Develop\NET\Curso ASP\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Curso ASP.props
+E:\Develop\NET\Curso ASP\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Curso ASP.props
+E:\Develop\NET\Curso ASP\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Develop\NET\Curso ASP\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Develop\NET\Curso ASP\obj\Debug\net6.0\scopedcss\bundle\Curso ASP.styles.css
+E:\Develop\NET\Curso ASP\obj\Debug\net6.0\scopedcss\projectbundle\Curso ASP.bundle.scp.css
+E:\Develop\NET\Curso ASP\obj\Debug\net6.0\Curso ASP.csproj.Up2Date
+E:\Develop\NET\Curso ASP\obj\Debug\net6.0\Curso ASP.dll
+E:\Develop\NET\Curso ASP\obj\Debug\net6.0\refint\Curso ASP.dll
+E:\Develop\NET\Curso ASP\obj\Debug\net6.0\Curso ASP.pdb
+E:\Develop\NET\Curso ASP\obj\Debug\net6.0\Curso ASP.genruntimeconfig.cache
+E:\Develop\NET\Curso ASP\obj\Debug\net6.0\ref\Curso ASP.dll
